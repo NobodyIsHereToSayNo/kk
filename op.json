@@ -1,20 +1,21 @@
+
 {
-  "name": "Cuddlebot",
-  "version": ":3",
-  "description": "Cuddles ;(",
+  "name": "Pink_iphone",
+  "version": "1.0",
+  "description": "Pink Anime Theme",
   "authors": [
     {
-      "name": "Fel1x#2802",
-      "id": "499287211381096458"
+      "name": "melonwer",
+      "id": "848518188195250176"
     }
   ],
   "theme_color_map": {
     "KEYBOARD": [
-      "#21252e",
+      "#0a0408",
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
-      "#e399b3",
+      "#FBFBFB",
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
@@ -30,7 +31,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#e3bcd7",
+      "#d160cf",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
@@ -38,7 +39,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#e3bcd7",
+      "#d160cf",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -46,59 +47,59 @@
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
-      "#21252e",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY": [
-      "#21252e",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#21252e",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
-      "#21252e",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "#21252e",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
-      "#21252e",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#21252e",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#21252e",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#21252e",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#21252e",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#21252e",
+      "#1a1926",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#212229",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#212229",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#21252e",
+      "#171717",
       "#FFFFFF"
     ],
     "SCROLLBAR_THIN_THUMB": [
@@ -122,40 +123,38 @@
       "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
-      "#BFBFBF",
+      "#ff63bc",
       "#FFFFFF"
     ],
     "TEXT_LINK": [
-      "#e3bcd7",
+      "#d62515",
       "#6c56c4"
     ],
     "CHANNEL_ICON": [
-      "#BFBFBF",
+      "#ff63bc",
       "#6c56c4"
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#21252e",
-    "PRIMARY_DARK_100": "#F1F1F1",
-    "PRIMARY_DARK_200": "#21252e",
-    "PRIMARY_DARK_300": "#F1F1F1",
-    "PRIMARY_DARK_360": "#e399b3",
-    "PRIMARY_DARK_400": "#21252e",
-    "PRIMARY_DARK_500": "#21252e",
-    "PRIMARY_DARK_600": "#21252e",
-    "PRIMARY_DARK_630": "#21252e",
-    "PRIMARY_DARK_700": "#21252e",
-    "PRIMARY_DARK_800": "#21252e",
-    "PRIMARY_DARK_900": "#21252e",
-    "STATUS_RED": "#e3bcd7",
-    "STATUS_GREEN": "#e3bcd7"
+    "PRIMARY_DARK": "#171717",
+    "PRIMARY_DARK_100": "#ffffff",
+    "PRIMARY_DARK_200": "#ffffff",
+    "PRIMARY_DARK_300": "#B6B6B6",
+    "PRIMARY_DARK_360": "#C8C8C8",
+    "PRIMARY_DARK_400": "#C8C8C8",
+    "PRIMARY_DARK_500": "#0c0c0c",
+    "PRIMARY_DARK_600": "#171717",
+    "PRIMARY_DARK_630": "#1f1f1f",
+    "PRIMARY_DARK_700": "#171717",
+    "PRIMARY_DARK_800": "#171717",
+    "PRIMARY_DARK_900": "#171717"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#21252e"
+    "CHAT_GREY": "#171717"
   },
   "background": {
-    "blur": 2,
-    "url": "https://media.discordapp.net/attachments/991174585619857418/1029138560110035004/IMG_6318.png",
+    "blur": 0.1,
+    "url": "https://media.discordapp.net/attachments/899448410996883497/1029140153685524611/Untitled68_20221010171524.png",
     "alpha": 1.0
   }
 }
